@@ -1,6 +1,4 @@
-Certainly! Below is the README file for your `DigitalArtAuth` smart contract:
 
----
 
 # Digital Art Authentication Smart Contract
 
