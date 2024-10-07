@@ -1,6 +1,7 @@
 
 
 # Digital Art Authentication Smart Contract
+![image](https://github.com/user-attachments/assets/f34673cf-900d-4dff-8ed5-784eb5316fc1)
 
 ## Vision
 
